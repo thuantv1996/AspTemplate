@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace BusinessLogic
 {
-    public static class ServiceCollectionExtension
+    public static class DataAccessInjector
     {
         public static void InjectDAL(this IServiceCollection services, IConfiguration configuration)
         {
