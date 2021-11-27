@@ -1,0 +1,14 @@
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\bin\Debug\netcoreapp3.1\Global.dll
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\bin\Debug\netcoreapp3.1\Global.pdb
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

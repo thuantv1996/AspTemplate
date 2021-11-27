@@ -1,0 +1,9 @@
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\bin\Debug\netcoreapp3.1\Global.deps.json
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\bin\Debug\netcoreapp3.1\Global.dll
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\bin\Debug\netcoreapp3.1\Global.pdb
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\obj\Debug\netcoreapp3.1\Global.csprojAssemblyReference.cache
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\obj\Debug\netcoreapp3.1\Global.AssemblyInfoInputs.cache
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\obj\Debug\netcoreapp3.1\Global.AssemblyInfo.cs
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\obj\Debug\netcoreapp3.1\Global.csproj.CoreCompileInputs.cache
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\obj\Debug\netcoreapp3.1\Global.dll
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\Global\obj\Debug\netcoreapp3.1\Global.pdb
