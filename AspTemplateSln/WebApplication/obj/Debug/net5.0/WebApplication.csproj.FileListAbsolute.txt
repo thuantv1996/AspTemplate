@@ -19,7 +19,6 @@ D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -61,3 +60,4 @@ D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\obj\Debug\net5
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\obj\Debug\net5.0\WebApplication.pdb
 D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+D:\THUAN-PC\WebTemplate\AspTemplate\AspTemplateSln\WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

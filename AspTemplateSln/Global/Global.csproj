@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTO\" />
     <Folder Include="Helper\" />
-    <Folder Include="Utils\" />
   </ItemGroup>
 
 </Project>

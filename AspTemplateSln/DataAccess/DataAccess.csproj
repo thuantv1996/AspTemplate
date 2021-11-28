@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
     <Folder Include="Repositories\Abstract\" />
     <Folder Include="Repositories\Implement\" />
   </ItemGroup>

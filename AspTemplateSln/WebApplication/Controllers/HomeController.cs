@@ -1,24 +1,27 @@
-﻿using BusinessLogic.Workflow;
+﻿using BusinessLogic.Services.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class HomeController : ControllerBase
     {
-        private readonly Test _test;
+        private readonly IUserService _userService;
+        private IUserTokenService _userTokenService;
 
-        public HomeController(Test test)
+        public HomeController(IUserService userService, IUserTokenService userTokenService)
         {
-            _test = test;
+            _userService = userService;
+            _userTokenService = userTokenService;
         }
 
-        [HttpGet("/") ]
-        public IActionResult Index()
+        [HttpGet("/GetUsers")]
+        public IActionResult GetUsers()
         {
-            _test.Add("admin", "123456");
-            return Ok();
+            return Ok("empty");
         }
     }
 }
